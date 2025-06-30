@@ -43,20 +43,6 @@ This project demonstrates a complete DevOps workflow for a containerized Golang 
 
 ---
 
-## 📽️ CI/CD Video Demo
-
-🎥 **Watch the full pipeline in action**  
-👉 *(Insert YouTube or Loom link here)*
-
----
-
-## 🌍 Live Demo (Optional)
-
-🔗 https://your-custom-domain.com  
-*(Replace with your actual domain if available)*
-
----
-
 ## 🎯 What You’ll Learn
 
 - How to build and containerize a Golang application
