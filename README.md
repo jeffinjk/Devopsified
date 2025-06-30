@@ -28,3 +28,53 @@ This project demonstrates a complete DevOps workflow for a containerized Golang 
 - 🔁 Complete CI/CD demonstration from commit to live deployment
 
 ---
+## 📂 Folder Structure
+
+```
+.
+├── app/                     # Golang source code
+├── Dockerfile               # Multi-stage build
+├── helm/                    # Helm chart with env values
+├── k8s/                     # Kubernetes manifests (optional)
+├── argocd/                  # Argo CD Application YAMLs
+├── .github/workflows/       # GitHub Actions CI pipeline
+└── README.md
+```
+
+---
+
+## 📽️ CI/CD Video Demo
+
+🎥 **Watch the full pipeline in action**  
+👉 *(Insert YouTube or Loom link here)*
+
+---
+
+## 🌍 Live Demo (Optional)
+
+🔗 https://your-custom-domain.com  
+*(Replace with your actual domain if available)*
+
+---
+
+## 🎯 What You’ll Learn
+
+- How to build and containerize a Golang application
+- Set up GitHub Actions for CI (build, push to Docker registry)
+- Configure Argo CD for GitOps-based CD
+- Use Helm to manage Kubernetes deployments across environments
+- Setup Ingress + DNS to expose apps cleanly and professionally
+
+---
+
+## 🤝 Contributions / Feedback
+
+Open to improvements, suggestions, and collaboration. Feel free to fork or raise an issue!
+
+---
+
+## 📜 License
+
+MIT License  
+© 2025 [Jeffin]
+
