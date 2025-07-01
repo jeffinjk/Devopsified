@@ -3,7 +3,6 @@
 This project demonstrates a complete DevOps workflow for a containerized Golang web application, covering CI/CD, Kubernetes deployment, Helm packaging, GitOps, and more.
 
 ---
----
 
 ## 🔄 CI/CD Pipeline Diagram
 
